@@ -16,6 +16,7 @@ docker-compose down
 docker-compose build
 
 # To test the solution
-access on browser the urls http://localhost:3000/machines for the machines endpoint and http://localhost:3000/events for the events endpoint
+access on browser the urls http://localhost:3000/machines for the machines endpoint
+and http://localhost:3000/events for the events endpoint
 
 ```
